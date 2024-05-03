@@ -5,8 +5,7 @@
 ✅ 20+ Front-End Web Development projects delivered
 🏆 Certified Front-End Web Developer and Web Designer
 ⚡️ Quick Turnaround
-🕐 On-time delivery
-🤝 Support after completion of the project
+
 
 I am a seasoned MERN stack developer with a passion for crafting intuitive and innovative web solutions. With over 2 years of hands-on experience in the field, I bring a wealth of expertise in frontend development. Currently serving as a Software Developer at a reputable software house, I thrive in dynamic environments where I can leverage my problem-solving skills and leadership abilities to drive impactful results.
 
