@@ -1,6 +1,4 @@
-
-
-**- 👋 Hi, I’m @DanyalHamid19**
+---------------------------**- 👋 Hi Visitor, I’m Danyal Hamid**---------------------------
   
 **Why Choose Me:**
 💎 2+ years Experience in Freelancing
